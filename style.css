@@ -64,7 +64,7 @@ section.imagem{
 }
 
 section.imagem#flor{
-   background-image: url("../imagens/background001.jpg");
+   background-image: url("../d012/imagens/background001.jpg");
    background-position: center right;
   
 }
@@ -79,7 +79,7 @@ text-shadow: 1px 1px 2px black;
  }
 
 section.imagem#papel {
-        background-image: url("../imagens/background002.jpg");
+        background-image: url("../d012/imagens/background002.jpg");
 }
 section.imagem#papel >p{
     background-color: rgba(0, 0, 0, 0.6);
